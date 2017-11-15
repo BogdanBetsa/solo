@@ -10,14 +10,20 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
     @include('layouts.partials.styles')    
 </head>
-<body>
-    <div id="app">
+<body class="homepage">
+        <div id="preloader">
+            <div class="spinner"></div>
+        </div>
+        @include('layouts.partials.header')
         @include('layouts.partials.nav')
+        
 
         @yield('content')
-    </div>
-
+   
+        @include('layouts.partials.footer')
     <!-- Scripts -->
+    
+<script src="js/vendor/modernizr-2.8.3.min.js"></script>
     @include('layouts.partials.scripts')
 </body>
 </html>  

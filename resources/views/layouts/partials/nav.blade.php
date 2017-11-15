@@ -1,32 +1,50 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default">
-    <div class="container">
+ <section class="hero-splash">
+ 
 
-        <!-- NAVBAR BRAND AND HAMBURGER ICON -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-            <a class="navbar-brand" href="#">
-                <h1>Solo Design</h1>
-            </a>
-        </div>
 
-        <!-- NAVBAR LINKS -->
-        <div class="collapse navbar-collapse navbar-right" id="navbar">
-            <ul class="nav navbar-nav">
-                <li><a href="#">Home</a></li>
+            <div class="owl-carousel splash-slider">
 
-                <li><a href="#">About</a></li>
+                <!-- SLIDE -->
+                <div>
+                    <img src="https://www.realestate.com.au/blog/wp-content/uploads/2014/09/03111219/Lounge-room-2000x1000.jpg" alt="About the image">
+                </div>
+                <!-- SLIDE -->
+                <div>
+                    <img src="http://riabizandpartners.com/wp-content/uploads/2017/02/OnTheLakeShore-Photo-02-2000x1000.jpg" alt="About the image">
+                </div>
+                <!-- SLIDE -->
+                <div>
+                    <img src="http://kitchenandbathclassics.com/wp-content/uploads/toto-large1.jpg" alt="About the image">
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="align">
+                        <h1>
+                            <small>We Design Beautiful Interiors</small>
+                            modern interior spaces
+                        </h1>
 
-                <li><a href="#">Projects</a></li>
-
-                <li><a href="#">Services</a></li>
-
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
+                        <a href="#" class="btn btn-default btn-colored">Проекты</a>
+                        <a href="#" class="btn btn-default btn-light">О нас</a>
+                    </div>
+                </div><!-- // .row -->
+            </div><!-- // .container -->
+        </section><!-- // SECTION 1 -->
+        
+<!--
+<head>
+<script type="text/javascript" src="https://ajax.googleapis.com..."></script>
+<script type="text/javascript">
+$(document).ready(function () {
+$("#menu").on("click", "a", function (event) { 
+event.preventDefault();
+var id = $(this).attr('href')
+, top = $(id).offset().top;
+$('body,html').animate({
+scrollTop: top
+}, 1000); // время, за которое будет осуществлена прокрутка.
+});
+});
+</script>
+</head>-->

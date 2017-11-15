@@ -1,6 +1,3 @@
-<!-- MODERNIZR -->
-<script src="https://www.google-analytics.com/analytics.js"></script>
-<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 <!-- JQUERY / PLUGINS -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
 <script src="js/vendor/bootstrap.min.js"></script>

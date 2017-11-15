@@ -1,29 +1,31 @@
-<!-- SECTION 1 - HERO SPLASH -->
-<section class="hero-splash">
+ <nav class="navbar navbar-default">
+                <div class="container">
+                    <!-- NAVBAR BRAND AND HAMBURGER ICON -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
 
+                        <a class="navbar-brand" href="#">
+                            <h1>SoloDesign</h1>
+                        </a>
+                    </div>
 
-    <div class="owl-carousel splash-slider">
+                    <!-- NAVBAR LINKS -->
+                    <div class="collapse navbar-collapse navbar-right" id="navbar">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="homepage.html">Главная</a></li>
 
-        <!-- SLIDE -->
-        <div>
-            <img src="http://placehold.it/1895x450" alt="About the image">
-        </div>
+                            <li><a href="about.html">О нас</a></li>
 
-        <!-- SLIDE -->
-        <div>
-            <img src="http://placehold.it/1895x450" alt="About the image">
-        </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="align">
-                <h1>
-                    <small>We Design Beautiful Interiors</small> modern interior spaces
-                </h1>
-            </div>
-        </div>
-        <!-- // .row -->
-    </div>
-    <!-- // .container -->
-</section>
-<!-- // SECTION 1 -->
+                            <li class="hidden-sm"><a href="projects.html">Проекты</a></li>
+
+                            <li class="hidden-sm"><a href="services.html">Услуги</a></li>
+
+                            <li><a href="contact.html">Контакты</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>

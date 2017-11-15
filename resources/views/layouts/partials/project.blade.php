@@ -5,7 +5,7 @@
                     <div class="col-md-6 col-md-offset-3">
                         <!-- SECTION HEADLINE -->
                         <div class="section-headline">
-                            <h4>Projects</h4>
+                            <h1><a href="#"></a>Проекты</h1>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ind standard dummy text specimen book.</p>
                         </div>
                     </div>

@@ -5,7 +5,7 @@
             <div class="col-md-6 col-md-offset-3">
                 <!-- SECTION HEADLINE -->
                 <div class="section-headline">
-                    <h4>What We Do</h4>
+                    <h1>Услуги</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ind standard dummy text specimen book.</p>
                 </div>
             </div>
@@ -15,7 +15,7 @@
             <div class="col-md-4">
                 <div class="imgbox style3">
                     <div class="img">
-                        <img src="https://i.pinimg.com/originals/c4/71/ce/c471ce15ce220f81a82f5e72c911f891.jpg" alt="About the image">
+                        <img src="http://essentialhome.eu/inspirations/wp-content/uploads/2017/01/The-Importance-Of-Interior-Design-3.jpg" alt="About the image">
                     </div>
 
                     <div class="align">
